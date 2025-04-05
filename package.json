@@ -1,0 +1,18 @@
+{
+    "name": "com.heman02.unity.servicelocator",
+    "displayName": "ServiceLocator",
+    "version": "1.0.0",
+    "unity": "2024.1",
+    "description": "servicelocator",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/HeMan02/ServiceLocator"
+    },
+    "author": "musso.luca89@gmail.com (https://github.com/HeMan02)",
+    "keywords": [
+        "unity",
+        "servicelocator"
+    ],
+    "category": "Unity",
+    "dependencies": {}
+}
